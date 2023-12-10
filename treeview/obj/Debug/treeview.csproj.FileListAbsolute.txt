@@ -1,0 +1,10 @@
+C:\Users\legen\source\repos\treeview\treeview\bin\Debug\treeview.exe.config
+C:\Users\legen\source\repos\treeview\treeview\bin\Debug\treeview.exe
+C:\Users\legen\source\repos\treeview\treeview\bin\Debug\treeview.pdb
+C:\Users\legen\source\repos\treeview\treeview\obj\Debug\treeview.csproj.AssemblyReference.cache
+C:\Users\legen\source\repos\treeview\treeview\obj\Debug\treeview.Form1.resources
+C:\Users\legen\source\repos\treeview\treeview\obj\Debug\treeview.Properties.Resources.resources
+C:\Users\legen\source\repos\treeview\treeview\obj\Debug\treeview.csproj.GenerateResource.cache
+C:\Users\legen\source\repos\treeview\treeview\obj\Debug\treeview.csproj.CoreCompileInputs.cache
+C:\Users\legen\source\repos\treeview\treeview\obj\Debug\treeview.exe
+C:\Users\legen\source\repos\treeview\treeview\obj\Debug\treeview.pdb
